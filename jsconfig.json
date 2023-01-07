@@ -8,12 +8,14 @@
       "@/*": [
         "src/*"
       ]
+    
     },
     "lib": [
       "esnext",
       "dom",
       "dom.iterable",
       "scripthost"
-    ]
+    ],
+    "jsx": "preserve"
   }
 }
